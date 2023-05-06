@@ -1,2 +1,2 @@
 # Adaptive-Intellect-Unleashed-The-Feasibility-of-Knowledge-Transfer-in-Large-Language-Models
-#Data_Link: https://drive.google.com/drive/folders/181Ry6Kppr5tadLPFlLgieLDk23WsCV4P?usp=sharing
+#Data_Link: https://drive.google.com/file/d/1XjM8fiS17ckp_IgwSjMmU4BUCSbT6OhA/view?usp=sharing
